@@ -1,0 +1,6 @@
+Item.create(name: "おしゃれなTシャツ", price: 1500, user_id: 1)
+Item.create(name: "おしゃれなパンツ", price: 1200, user_id: 1)
+Item.create(name: "おしゃれなYシャツ", price: 2000, user_id: 1)
+Item.create(name: "おしゃれなサンダル", price: 2600, user_id: 1)
+Item.create(name: "おしゃれなジャケット", price: 3000, user_id: 1)
+Item.create(name: "おしゃれなコート", price: 4000, user_id: 1)
